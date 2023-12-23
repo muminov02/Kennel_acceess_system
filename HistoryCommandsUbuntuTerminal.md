@@ -25,7 +25,7 @@ mkdir Shelter_new_folder
 cd Shelter
 mv mans_friends ../Shelter_new_folder    
 cd ../
-cd Shelter_new_folder
+cd Shelter_new_folder   
 ll
 
 ![https://github.com/muminov02/Kennel_acceess_system/blob/main/img_2.png?raw=true](img_2.png)
