@@ -1,15 +1,15 @@
 ## Task 1
 mkdir Shelter    
 cd Shelter    
-cat > home_animals    
-dog
-cat
-hamster
+cat > home_animals      
+dog     
+cat     
+hamster     
 
-cat > pack_animals  
-horse
-camel
-donkey
+cat > pack_animals          
+horse       
+camel       
+donkey      
 
 cat home_animals pack_animals > animals    
 cat animals    
@@ -22,9 +22,9 @@ ll
 ## Task 2
 cd ..    
 mkdir Shelter_new_folder    
-cd Shelter
+cd Shelter  
 mv mans_friends ../Shelter_new_folder    
-cd ../
+cd ../  
 cd Shelter_new_folder   
 ll
 
